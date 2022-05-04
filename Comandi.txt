@@ -1,4 +1,4 @@
-git clone
-git stage
-git commit
+git stage 'link'
+git add 'nome file'
+git commit -m "descrizione"
 git push
