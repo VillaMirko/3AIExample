@@ -1,4 +1,4 @@
-git stage 'link'
+git add 'link'
 git add 'nome file'
 git commit -m "descrizione"
 git push
